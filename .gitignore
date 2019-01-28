@@ -1,2 +1,4 @@
 *.tst
 *.cmp
+*.out
+*.dat
